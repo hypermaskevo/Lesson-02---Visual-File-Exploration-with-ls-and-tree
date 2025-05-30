@@ -1,0 +1,22 @@
+-- man ls --
+-a, --all
+              do not ignore entries starting with .
+
+       -A, --almost-all
+              do not list implied . and ..
+
+-- man cd --
+
+ man ls
+           Display the manual page for the item (program) ls.
+
+       man man.7
+           Display the manual page for  macro  package  man  from  section  7.
+           (This is an alternative spelling of "man 7 man".)
+
+-- man rm --
+
+-f, --force
+              ignore nonexistent files and arguments, never prompt
+
+       -i     prompt before every removal

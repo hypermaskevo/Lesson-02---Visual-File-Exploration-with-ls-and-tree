@@ -1,0 +1,3 @@
+#!/bin/bash
+cd ~/Desktop/cli-lab/projects/test1 && echo "test 1 : $(pwd)">>~/Desktop/cli-lab/cli_journ.log
+
