@@ -1,0 +1,28 @@
+ls
+archive  cli_journ  cli_journey.log  cli_journ.log  man_notes.txt  projects
+ls -a
+.  ..  cli_journey.log  cli_journ.log  ls_notes.txt  test1
+ls -l
+total 12
+-rw-rw-r-- 1 ubuntu ubuntu 106 May 30 16:56 cli_journey.log
+-rw-rw-r-- 1 ubuntu ubuntu 106 May 30 16:58 cli_journ.log
+-rw-rw-r-- 1 ubuntu ubuntu 144 May 30 17:12 ls_notes.txt
+drwxrwxr-x 2 ubuntu ubuntu  60 May 30 16:59 test1
+ls -lh
+total 12K
+-rw-rw-r-- 1 ubuntu ubuntu 106 May 30 16:56 cli_journey.log
+-rw-rw-r-- 1 ubuntu ubuntu 106 May 30 16:58 cli_journ.log
+-rw-rw-r-- 1 ubuntu ubuntu 384 May 30 17:12 ls_notes.txt
+drwxrwxr-x 2 ubuntu ubuntu  60 May 30 16:59 test1
+ls -lt
+total 12
+-rw-rw-r-- 1 ubuntu ubuntu 626 May 30 17:12 ls_notes.txt
+drwxrwxr-x 2 ubuntu ubuntu  60 May 30 16:59 test1
+-rw-rw-r-- 1 ubuntu ubuntu 106 May 30 16:58 cli_journ.log
+-rw-rw-r-- 1 ubuntu ubuntu 106 May 30 16:56 cli_journey.log
+ls -ltrh
+total 12K
+-rw-rw-r-- 1 ubuntu ubuntu 106 May 30 16:56 cli_journey.log
+-rw-rw-r-- 1 ubuntu ubuntu 106 May 30 16:58 cli_journ.log
+drwxrwxr-x 2 ubuntu ubuntu  60 May 30 16:59 test1
+-rw-rw-r-- 1 ubuntu ubuntu 867 May 30 17:13 ls_notes.txt

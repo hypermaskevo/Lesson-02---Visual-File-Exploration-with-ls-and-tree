@@ -1,0 +1,15 @@
+/home/ubuntu/Desktop/cli-lab
+├── archive
+├── cli_journ
+├── cli_journey.log
+├── cli_journ.log
+├── man_notes.txt
+└── projects
+    ├── cli_journey.log
+    ├── cli_journ.log
+    ├── ls_notes.txt
+    ├── test1
+    │   └── cli_journ.log
+    └── tree_snapshot.txt
+
+4 directories, 9 files

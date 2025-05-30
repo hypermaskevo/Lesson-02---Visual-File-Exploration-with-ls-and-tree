@@ -1,0 +1,17 @@
+ls -a
+.   cli_journey.log  .hidden1  .hidden3      test1
+..  cli_journ.log    .hidden2  ls_notes.txt  tree_snapshot.txt
+
+
+2 directories, 5 files
+ tree -a
+.
+├── cli_journey.log
+├── cli_journ.log
+├── .hidden1
+├── .hidden2
+├── .hidden3
+├── ls_notes.txt
+├── test1
+│   └── cli_journ.log
+└── tree_snapshot.txt
